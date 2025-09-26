@@ -1,6 +1,6 @@
 package com.example.oracle;
 
-public class Shape {
+public abstract class Shape {
     public int x;
     public int y;
 }
